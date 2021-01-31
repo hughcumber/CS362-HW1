@@ -1,4 +1,4 @@
-![Flowchart for Leap Year Program](https://drive.google.com/file/d/1Zc8JYftoNUpg6XUoIY-FbDV689OoDxtR/view?usp=sharing)
+![Flowchart for Leap Year Program](https://imgur.com/IuBuqQG)
 
 Author: Hugh MacWilliams 
 OSU Email/ID: macwillh@oregonstate.edu 933-288-970
